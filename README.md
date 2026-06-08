@@ -1,7 +1,7 @@
-# # Hi There! Im Jay Emerson P. Navares!
+# 👋 Hi There! I'm Jay Emerson P. Navares!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Arch User Btw; Neovim Btw;AI+%26+LLM+Tinkerer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Arch+User+Btw;Neovim+Btw;AI+%26+LLM+Tinkerer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,13 +14,12 @@
 </p>
 
 ---
-
 ### 🚀 About Me
 
-I am a passionate software developer and systems enthusiast deeply invested in **Full-Stack Web Development**, **Database Design**, and **Low-Level Systems Architecture**. When I'm not configuring my desktop environment down to the pixel, I am building scalable web applications powered by modern backends and integrating localized AI solutions.
+I am a passionate software developer and systems enthusiast deeply invested in **Full-Stack Web Development**, **Database Design**, and **Local AI Ecosystems & Integration**. When I'm not configuring my desktop environment down to the pixel, I am building scalable web applications powered by modern backends and deploying private, self-hosted machine learning setups.
 
 - 🎓 Studying Computer Science at the **University of the Philippines Mindanao**
-- 🛠️ Currently focusing on deep optimizations, backend API designs, and playing with localized LLMs
+- 🛠️ Currently focusing on deep optimizations, backend API designs, and running quantized LLMs locally
 - 🐧 Proud **Arch Linux** user and **Neovim** btw
 
 ---
