@@ -82,17 +82,6 @@ I am a passionate software developer and systems enthusiast deeply invested in *
 
 ---
 
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TxcWb&show_icons=true&theme=tokyonight&count_private=true" alt="Jayeme's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TxcWb&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TxcWb&theme=tokyonight" alt="GitHub Streak" width="98%" />
-</p>
-
 ---
 
 <p align="center">
