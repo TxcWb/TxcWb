@@ -65,6 +65,7 @@ I am a passionate software developer and systems enthusiast deeply invested in *
       <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
     </td>
   </tr>
@@ -86,5 +87,4 @@ I am a passionate software developer and systems enthusiast deeply invested in *
 
 <p align="center">
   <i>"Leave tomorrow's problems to tomorrow's you."</i><br>
- 
 </p>
