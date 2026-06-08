@@ -96,6 +96,6 @@ I am a passionate software developer and systems enthusiast deeply invested in *
 ---
 
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i><br>
-  💡 Custom dotfiles, clean relational schemas, and fast engines are non-negotiable.
+  <i>"Leave tomorrow's problems to tomorrow's you."</i><br>
+ 
 </p>
