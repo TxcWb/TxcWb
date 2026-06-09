@@ -14,6 +14,7 @@
 </p>
 
 ---
+
 ### 🚀 About Me
 
 I am a passionate software developer and systems enthusiast deeply invested in **Full-Stack Web Development**, **Database Design**, and **Local AI Ecosystems & Integration**. When I'm not configuring my desktop environment down to the pixel, I am building scalable web applications powered by modern backends and deploying private, self-hosted machine learning setups.
@@ -26,65 +27,63 @@ I am a passionate software developer and systems enthusiast deeply invested in *
 
 ### 🛠️ Technical Toolkit
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Programming Languages</h4>
-      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/SQL%20%2F%20Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Web Development</h4>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗄️ Database Management</h4>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 AI & LLM Tools</h4>
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-      <img src="https://img.shields.io/badge/Local_LLM-Deployment-purple?style=flat-square" alt="Local LLMs" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h4>🛠️ Tools & Platforms</h4>
-      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
-    </td>
-  </tr>
-</table>
+<h4 align="center">💻 Programming Languages</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,postgres,bash&theme=dark" />
+  </a>
+</p>
+
+<h4 align="center">🌐 Web Development</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" />
+  </a>
+</p>
+
+<h4 align="center">🗄️ Database Management</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" />
+  </a>
+</p>
+
+<h4 align="center">🤖 AI & LLM Tools</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local_LLM-Deployment-purple?style=for-the-badge" />
+</p>
+
+<h4 align="center">🛠️ Tools & Platforms</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,git,github,docker,neovim&theme=dark" />
+  </a>
+</p>
 
 ---
 
 ### 🎨 Hobbies
 
-* 🌌 Linux Ricing
-* 🧩 Speedcubing (Rubik's Cube)
-* ♔ Chess
-* 🏞️ Hiking
-* 🏍️ Motorcycle Riding
+<p align="center">
+  🌌 Linux Ricing &nbsp;&bull;&nbsp; 🧩 Speedcubing &nbsp;&bull;&nbsp; ♔ Chess &nbsp;&bull;&nbsp; 🏞️ Hiking &nbsp;&bull;&nbsp; 🏍️ Motorcycle Riding
+</p>
 
 ---
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TxcWb&show_icons=true&theme=tokyonight&count_private=true" alt="Jayeme's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TxcWb&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TxcWb&theme=tokyonight" alt="GitHub Streak" width="98%" />
+</p>
 
 ---
 
 <p align="center">
-  <i>"Leave tomorrow's problems to tomorrow's you."</i><br>
+  <i>"Leave tomorrow's problems to tomorrow's you."</i>
 </p>
